@@ -6,6 +6,8 @@
 
 The current instruction set architecture (ISA) described in this document corresponds to version V5, which is the final and stable version. The compiler is specifically designed to work with V5, ensuring compatibility and optimal performance. Any previous versions are deprecated and not supported by the compiler. It is crucial to use V5 for all development and deployment activities to ensure proper functionality and support.
 
+The target here is the DE10-Lite.
+
 ## Visualizing Data in RAM and Matrix Register
 
 You can visualize any data stored in RAM and the Matrix register using the switches on the DE10 board. Follow these instructions to access and display the data:
