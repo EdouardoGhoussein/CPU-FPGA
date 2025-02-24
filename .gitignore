@@ -1,0 +1,36 @@
+# Quartus-generated files
+*/db/
+*/incremental_db/
+*/simulation/
+.qsf.auto.qsf
+.qws
+.cdf
+.smsg
+.sopcinfo
+.jdi
+
+# Output files
+*.rpt
+*.summary
+*.done
+*.pin
+*.pof
+*.sof
+*.jic
+*.bin
+*.hex
+*.sdc
+
+# Compilation cache
+*.bak
+*.log
+*.tmp
+*.qdf
+*.qpf
+*.qsf
+
+ModelSim*/
+CPU_Template_Project V1-2/
+CPU_Template_Project V3/
+CPU_Template_Project V4/
+CPU_Template_Project V4 - Assembly/
